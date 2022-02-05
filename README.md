@@ -2,7 +2,6 @@
 <div align="center">
   <a href="https://github.com/Elizane-da-Conceicao">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Elizane-da-Conceicao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elizane-da-Conceicao&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Liz-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
